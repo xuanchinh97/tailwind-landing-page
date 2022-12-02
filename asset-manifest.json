@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tailwind-landing-page/static/css/main.b96914e7.css",
+    "main.js": "/tailwind-landing-page/static/js/main.bacca4f8.js",
+    "static/media/card.svg": "/tailwind-landing-page/static/media/card.8162d70aafa5b3c9dd11776960c17d02.svg",
+    "index.html": "/tailwind-landing-page/index.html",
+    "static/media/check.svg": "/tailwind-landing-page/static/media/check.e6fb772578b79e07d821b8839c859a38.svg",
+    "main.b96914e7.css.map": "/tailwind-landing-page/static/css/main.b96914e7.css.map",
+    "main.bacca4f8.js.map": "/tailwind-landing-page/static/js/main.bacca4f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96914e7.css",
+    "static/js/main.bacca4f8.js"
+  ]
+}
